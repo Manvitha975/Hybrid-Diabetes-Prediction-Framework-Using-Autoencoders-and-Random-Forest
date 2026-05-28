@@ -1,4 +1,4 @@
-````markdown
+
 # 🧠 Diabetes Prediction using Autoencoders and Random Forest  
 ### *(Deployed using Docker & AWS EC2 🚀)*
 
