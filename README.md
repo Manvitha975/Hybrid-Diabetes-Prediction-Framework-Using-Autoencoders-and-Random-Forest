@@ -220,16 +220,3 @@ The project showcases how ML, Deep Learning, and DevOps can be integrated to bui
 
 
 ---
-
-## ⭐ Repository Stats
-
-- ⭐ Stars: 0  
-- 👀 Watchers: 0  
-- 🍴 Forks: 0  
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-````
