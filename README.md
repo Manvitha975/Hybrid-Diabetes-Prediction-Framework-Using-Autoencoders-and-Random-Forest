@@ -218,11 +218,6 @@ This project demonstrates:
 
 The project showcases how ML, Deep Learning, and DevOps can be integrated to build scalable real-world healthcare AI applications.
 
----
-
-## 👨‍💻 Contributors
-
-- [@Indrakaran1411](https://github.com/Indrakaran1411)
 
 ---
 
